@@ -49,4 +49,8 @@ func main() {
 	println(First)
 	println(Second)
 	println(Third)
+
+	// Short assignment statement (only able in method block)
+	shortVar := 123
+	println(shortVar)
 }
